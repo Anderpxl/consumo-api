@@ -1,3 +1,5 @@
+https://anderpxl.github.io/consumo-api/
+
 Consumo de API com Javascript, utilizando bootstrap para o design do site e chart.js para gerar os gráficos.
 
 -> Projeto desenvolvido no curso SENAI Integrantes: Anderson, Fernando, Gabriel, Nathan, Pedro e Vinicius
